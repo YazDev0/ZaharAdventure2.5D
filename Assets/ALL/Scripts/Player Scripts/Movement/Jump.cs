@@ -50,7 +50,6 @@ public class Jump : MonoBehaviour
         if (animator != null)
         {
             animator.SetBool("IsGrounded", isGrounded);
-            animator.SetFloat("VerticalSpeed", velocity.y);
         }
     }
 }
