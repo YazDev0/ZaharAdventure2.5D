@@ -1,0 +1,22 @@
+{
+    "pages": [
+        {
+            "aboutPage": "Dialogue lines from Testing Extraction asset",
+            "pageId": "dialogue_testing_extraction",
+            "pageFiles": [
+                {
+                    "key": "neon",
+                    "originalValue": "Neon",
+                    "variants": [],
+                    "aliases": []
+                },
+                {
+                    "key": "i_am_testing",
+                    "originalValue": "I am testing.",
+                    "variants": [],
+                    "aliases": []
+                }
+            ]
+        }
+    ]
+}
