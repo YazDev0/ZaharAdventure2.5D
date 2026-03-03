@@ -18,7 +18,7 @@ MonoBehaviour:
     aboutPage: For Main Menu
     entries:
     - key: Start_Button
-      originalValue: START
+      originalValue: start
       variants:
       - languageCode: ar
         value: "\u0627\u0628\u062F\u0623"

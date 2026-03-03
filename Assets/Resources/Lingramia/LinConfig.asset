@@ -21,6 +21,8 @@ MonoBehaviour:
     - {fileID: 11400000, guid: 50e8fe7bfdf0d449faa9e70d0cab5811, type: 2}
     - {fileID: 11400000, guid: b145ab90c35ad1143807a0727bcb412b, type: 2}
     - {fileID: 11400000, guid: f6262b48c52527e46bdedaf4361cacff, type: 2}
+    - {fileID: 11400000, guid: eb1428c49756ad24fb563a150a8e36d9, type: 2}
+    - {fileID: 11400000, guid: ab35ebc1425891c4fb79855a4d42876e, type: 2}
     TextStyleCache:
     - {fileID: 11400000, guid: 41c31645740e04f53a7bbec057a380ea, type: 2}
     - {fileID: 11400000, guid: 667aefe1712b8924e87e20ad7d416a23, type: 2}
@@ -29,6 +31,8 @@ MonoBehaviour:
     - {fileID: 11400000, guid: 0adec8624b7a8487fb7fdcdd0e41e059, type: 2}
     - {fileID: 11400000, guid: 54ca44858b45b4bedab884922253245d, type: 2}
     - {fileID: 11400000, guid: 1638309cb7272ff44946a50a9ec92a0d, type: 2}
+    - {fileID: 11400000, guid: 8daad64b6f0a1894dafc724beed7e1b2, type: 2}
+    - {fileID: 11400000, guid: f8f35661dafb7bb44843ae9b45ea9f3b, type: 2}
     DefaultStartingLanguageCode: en
     LanguageOptionSaveKey: language
     AutoUpdateLocbooks: 1
