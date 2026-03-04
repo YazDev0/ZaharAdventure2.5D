@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 using System;
 using Unity.VisualScripting;
@@ -36,6 +36,8 @@ public class SwitchPowerToCat : MonoBehaviour
 
     [Header("PowerPickUp")]
     public GameObject PowerCatBox;
+    public GameObject PowerTurtleBox;
+    public GameObject PowerCubeBox; 
 
 
     int currentPower = 0;
@@ -117,21 +119,31 @@ public class SwitchPowerToCat : MonoBehaviour
         switch (currentPower)
         {
             case 0:
-                PowerIcon.sprite = CubeIcon;
-                Debug.Log("Cube");
-                break;
+                if (!PowerCubeBox.activeSelf)
+                {
+                    PowerIcon.sprite = CubeIcon;
+                    Debug.Log("Cube");
+                }
+                    break;
 
             case 1:
-                PowerIcon.sprite = CatIcon;
 
-                Debug.Log("Cat");
-                break;
+                if (!PowerCatBox.activeSelf)
+                {
+                    PowerIcon.sprite = CatIcon;
+
+                    Debug.Log("Cat");
+                }
+                    break;
 
             case 2:
-                PowerIcon.sprite = TurtleIcon;
+                if (!PowerTurtleBox.activeSelf)
+                {
+                    PowerIcon.sprite = TurtleIcon;
 
-                Debug.Log("Turtle");
-                break;
+                    Debug.Log("Turtle");
+                }
+                    break;
 
             default:
                 break;
@@ -146,15 +158,18 @@ public class SwitchPowerToCat : MonoBehaviour
         switch (currentPower)
         {
             case 0:
+                if (!PowerCubeBox.activeSelf)
                                Debug.Log("Cube");
                 break;
 
             case 1:
-                                Debug.Log("Cat");
+                if (!PowerCatBox.activeSelf)
+                    Debug.Log("Cat");
                 break;
 
                 case 2:
-                                Debug.Log("Turtle");
+                    if (!PowerTurtleBox.activeSelf)
+                    Debug.Log("Turtle");
                 break;
 
             default:
@@ -170,17 +185,28 @@ public class SwitchPowerToCat : MonoBehaviour
         switch (currentPower)
         {
             case 0:
-                StartCoroutine(CatPower());
-                Debug.Log("Use Cube Power");
+
+                if (!PowerCubeBox.activeSelf)
+                {
+                    StartCoroutine(CatPower());
+                    Debug.Log("Use Cube Power");
+                }
                 break;
             case 1:
-                StartCoroutine(TurtlePower());
+                if (!PowerCatBox.activeSelf)
+                {
+                    StartCoroutine(TurtlePower());
                 Debug.Log("Use Cat Power");
+                }
                 break;
             case 2:
-                StartCoroutine(PowerCube());
-                Debug.Log("Use Turtle Power");
-                break;
+
+                if (!PowerTurtleBox.activeSelf)
+                {
+                    StartCoroutine(PowerCube());
+                    Debug.Log("Use Turtle Power");
+                }
+                    break;
             default:
                 break;
         }
