@@ -2,7 +2,7 @@
 using System.Collections;
 using UnityEngine.UI;
 
-public class PowerSwitchesPowerSwitches : MonoBehaviour
+public class PowerSwitches : MonoBehaviour
 {
     [Header("Power")]
     public GameObject Cat;
