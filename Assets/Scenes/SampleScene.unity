@@ -1343,13 +1343,12 @@ MonoBehaviour:
   SwitchPowerKeyNext: 113
   SwitchPowerKeyBack: 101
   switchCooldown: 5
-  cooldownTimer: 5
   PowerIcon: {fileID: 1562831488}
   CatIcon: {fileID: 21300000, guid: 0b9e45ae4bb36f644996babc218c0ed3, type: 3}
   TurtleIcon: {fileID: 21300000, guid: f4146de0ffbaacc41b00fa6130b790e5, type: 3}
   CubeIcon: {fileID: 21300000, guid: 6e78a0e3ab6e5994cbb05f5ccc450964, type: 3}
   PowerSound: {fileID: 1063114660}
-  switchSound: {fileID: 8300000, guid: 63dd4bf0eb6219549bff619a38a79ae4, type: 3}
+  switchSound: {fileID: 0}
   PowerCatBox: {fileID: 502385337}
   PowerTurtleBox: {fileID: 115308147}
   PowerCubeBox: {fileID: 938415796}
@@ -1387,7 +1386,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
