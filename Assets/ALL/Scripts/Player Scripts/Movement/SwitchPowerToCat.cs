@@ -35,7 +35,6 @@ public class PowerSwitchesPowerSwitches : MonoBehaviour
 
     void Start()
     {
-        // بدأ بأول قوة مفتوحة
         for (int i = 0; i <= 2; i++)
         {
             if (IsPowerUnlocked(i))
@@ -158,7 +157,7 @@ public class PowerSwitchesPowerSwitches : MonoBehaviour
     {
         if (!IsPowerUnlocked(currentPower))
         {
-            Debug.Log("هذي القوة مقفولة!");
+            Debug.Log("This Power Unlocked!");
             return;
         }
 
@@ -166,15 +165,12 @@ public class PowerSwitchesPowerSwitches : MonoBehaviour
         {
             case 0:
                 StartCoroutine(CubePower());
-                Debug.Log("استخدم قوة المكعب");
                 break;
             case 1:
                 StartCoroutine(CatPower());
-                Debug.Log("استخدم قوة القطة");
                 break;
             case 2:
                 StartCoroutine(TurtlePower());
-                Debug.Log("استخدم قوة السلحفاء");
                 break;
         }
     }

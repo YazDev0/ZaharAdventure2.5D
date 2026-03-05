@@ -1,0 +1,1025 @@
+fileFormatVersion: 2
+guid: 719ef26f62d59764ab73b128a948c9dc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2633
+        width: 268
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba7a52860c04d64cb75a2cceb98ca29
+      internalID: -2118529315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2633
+        width: 269
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cc1abe63e2a0b4fbcb77b3cae0dc84
+      internalID: -1752772139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2633
+        width: 269
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6d79d4bda8b294e84528b8b95bf22d
+      internalID: -670957972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_3
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 2633
+        width: 270
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a064fbe5628411546b4437e8bdb5b951
+      internalID: 80164513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_4
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 2633
+        width: 272
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e6b4315d9faab4a878f3f9bf3dd9fb
+      internalID: -277800397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_5
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 2633
+        width: 273
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dff8856ddaf5024bbaf592445a8d510
+      internalID: 1842161222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2106
+        width: 280
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e94df3017076d34c8ec5930ed64f8f5
+      internalID: -1054007285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2106
+        width: 280
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccc66b536b85944b8bfc5b2912c36ff
+      internalID: -659990072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_8
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2106
+        width: 281
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f713372c5a3f814a811b158cf608a75
+      internalID: 1919997215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_9
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 2106
+        width: 283
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cbf2472ff43aa43bb77d8cab42b429
+      internalID: -693191848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_10
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 2106
+        width: 285
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be009bcff639ff24eb622f0c2109e91c
+      internalID: 1780508596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_11
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 2106
+        width: 285
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936083afb2dbe024d95f7e6bb0ddf127
+      internalID: -1375599900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1580
+        width: 285
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d95b364612c4904b837a4efa1a48003
+      internalID: -943074474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1580
+        width: 284
+        height: 523
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4292dd448d5aa4c4580191d8e0d1844b
+      internalID: -1988612917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_14
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1580
+        width: 283
+        height: 523
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe85280e8a38ed24da5e94d8e8286a86
+      internalID: 631840948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_15
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1580
+        width: 283
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e6d3a69152b034496e60978ab6598d
+      internalID: 724682776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_16
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1580
+        width: 278
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9388db4a2ab6c4f89654a4d71b10b1
+      internalID: 1213815324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_17
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1580
+        width: 274
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf176b10f0f2c547b6d78c3d43c3f06
+      internalID: -690792242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1055
+        width: 274
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798cecbc88a87c34c989f1d59a8aa1b2
+      internalID: -2097454666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_19
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1055
+        width: 271
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7205348070039d9408f33b802d51b578
+      internalID: -611629426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_20
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1055
+        width: 269
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942915f542de59c4fa3e841c7fc9312a
+      internalID: -2128188739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_21
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1055
+        width: 269
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d075509e315f3409196209d688a333
+      internalID: 1247020622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_22
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1055
+        width: 267
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2293cfcb1938f664bbc9a6b106d2cc3e
+      internalID: 281651812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_23
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1055
+        width: 266
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a74c3d1807d9246bbddf7fb2527d2e
+      internalID: -285895393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 528
+        width: 267
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e8e48454c3dd342b999b081123cd45
+      internalID: 808057695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_25
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 528
+        width: 272
+        height: 519
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea78ac4c6b5457458125618ba71f8fd
+      internalID: -339575114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_26
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 528
+        width: 274
+        height: 519
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc7db2442710474c88acb1ef37da738
+      internalID: 539745438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_27
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 528
+        width: 277
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a614ac2c32cc37542b01468ddf7fbcc4
+      internalID: -2103887346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_28
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 528
+        width: 277
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a4c99b5642f494f8185ae36198d362
+      internalID: 389877993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_29
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 528
+        width: 278
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9092beaeb48ea2947bf0dedaf7e21a0f
+      internalID: 185170722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 280
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bcc83af386fb444803362fa91ccff8
+      internalID: -1432189518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2
+        width: 278
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd52244f93ac8248bb0705f3dbf82f7
+      internalID: -1351450550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_32
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2
+        width: 277
+        height: 523
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bca44c6f1710f742bc4e72f2c2a27a7
+      internalID: 1890377066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_33
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 2
+        width: 275
+        height: 523
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7907c64cb92ce348b8e3dfff66dbb22
+      internalID: -1697152900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_34
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 2
+        width: 275
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911f53b6413954d4c8e696a6a160b24f
+      internalID: -13585209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_35
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 2
+        width: 274
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9aa75832a63b4408841cbc5b16138b
+      internalID: 1314822846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f68a16875932de4409b518ac58c0ec72
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_0: -2118529315
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_1: -1752772139
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_10: 1780508596
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_11: -1375599900
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_12: -943074474
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_13: -1988612917
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_14: 631840948
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_15: 724682776
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_16: 1213815324
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_17: -690792242
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_18: -2097454666
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_19: -611629426
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_2: -670957972
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_20: -2128188739
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_21: 1247020622
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_22: 281651812
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_23: -285895393
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_24: 808057695
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_25: -339575114
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_26: 539745438
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_27: -2103887346
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_28: 389877993
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_29: 185170722
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_3: 80164513
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_30: -1432189518
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_31: -1351450550
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_32: 1890377066
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_33: -1697152900
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_34: -13585209
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_35: 1314822846
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_4: -277800397
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_5: 1842161222
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_6: -1054007285
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_7: -659990072
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_8: 1919997215
+      Designed-for-a-3D-side-scrolling-platformer-this-h-max-px-36_9: -693191848
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
